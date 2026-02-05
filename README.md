@@ -1,4 +1,4 @@
-##           C++ MINI PROJECT 
+## -----------C++ MINI PROJECT--------------
 ![Project Banner](cpp-mini-project/vrms.png)
 
 # --OVERVIEW--
