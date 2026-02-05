@@ -1,4 +1,4 @@
-## --Vehicle Rental Management System (C++ Mini Project)--
+## -- VEHICLE RENTAL MANAGEMENT SYSTEM (C++ Mini Project)--
 
 # --OVERVIEW--
 
