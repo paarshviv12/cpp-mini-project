@@ -1,0 +1,10 @@
+Car Maruti Suzuki Swift Dzire
+500 Available
+Car Honda City
+700 Available
+Bike BMW G 310 RR
+1200 Rented
+Bike BMW 750 GS
+800 Rented
+Bike Ninja
+900 Available
