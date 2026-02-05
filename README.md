@@ -1,4 +1,5 @@
-## -- VEHICLE RENTAL MANAGEMENT SYSTEM (C++ Mini Project)--
+##           C++ MINI PROJECT 
+![Project Banner](cpp-mini-project/vrms.png)
 
 # --OVERVIEW--
 
